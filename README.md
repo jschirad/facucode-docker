@@ -8,3 +8,12 @@ Recursos y documentación para empezar a trastear con Docker.
 
 [Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
+#### Comandos utiles
+
+[Docker CLI](https://docs.docker.com/engine/reference/commandline/cli/)
+
+[Docker login](https://docs.docker.com/engine/reference/commandline/login/)
+
+[Docker build](https://docs.docker.com/engine/reference/commandline/build/)
+
+[Docker run](https://docs.docker.com/engine/reference/commandline/run/)
